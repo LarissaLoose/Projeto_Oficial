@@ -1,0 +1,53 @@
+body {
+    background: darkred;
+    font: 15px monospace;
+    color: white;
+}
+
+#inicio {
+    width: 900px;
+}
+
+#menu {
+    padding: 10px;
+
+}
+
+
+#conteudo {
+    background-color: black;
+    padding: 10px;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.img-academy{
+    border: 5px solid white;
+    
+}
+
+.img-home{
+    border: 5px solid white;
+}
+
+h1 {
+    color: white;
+    font-size: 1.2cm;
+}
+
+p{
+    color: white;  
+}
+
+
+
+
+#rodape {
+    text-align: center;
+}
